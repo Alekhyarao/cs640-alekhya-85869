@@ -6,8 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spring MVC and Hibernate Template</title>
-
+    
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -23,6 +22,20 @@
 </head>
 
 <body>
+
+<h1>Alekhya Rao Student ID 85869</h1>
+<hr>
+<p>Lessons Learned </p>
+<p>1.Learnt about the fundamentals of Hardware and software of web security.</p>
+<p>2.Basic learning of Hacking and how hacking is done.</p>
+<p>3.Learnt about cryptography and encryption.</p>
+<p>4.Learnt about  github and heroku.</p>
+<p>5.Learnt  many things from project  and about wire framing tool and how to use it.</p>
+<p>6.Overall learnt about many new things and gained knowledge.</p>
+
+
+
+<!--  
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
@@ -70,6 +83,6 @@
         </div>
     </div>
 </div>
-
+-->
 </body>
 </html>
