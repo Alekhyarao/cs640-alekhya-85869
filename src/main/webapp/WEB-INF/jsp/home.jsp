@@ -32,6 +32,7 @@
 <p>4.Learnt about  github and heroku.</p>
 <p>5.Learnt  many things from project  and about wire framing tool and how to use it.</p>
 <p>6.Overall learnt about many new things and gained knowledge.</p>
+<p>7.</p>
 
 
 
